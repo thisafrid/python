@@ -7,3 +7,4 @@ print(avg)"""
 a = input("Enter first number: ")
 b = input("Enter second number: ")
 print("true" if  a>=b else "false")
+
