@@ -1,4 +1,5 @@
 #nesting - used to write if statement inside another if statement
+
 age = int(input("Enter your age: "))
 if age >= 18:
     print("you can drive and vote")
