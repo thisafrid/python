@@ -6,7 +6,7 @@
 #Given an integer array a[], contains the last digit of the registration number of N vehicles traveling on
 #date D(a positive integer). The task is to calculate the total fine collected by the traffic police
 #department from the vehicles violating the rules.
-#Note : For violating the rule, vehicles would be fined as X Rs.
+#Note : For violating the rule, vehicles would be fined as X Rs..
 
 A = []
 Date = int(input("Enter the date:"))
