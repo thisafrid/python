@@ -22,4 +22,4 @@ print(type(car)) #output will be <class 'tuple'> because we put , after the stri
 #example
 A = (1, 2, 3, 4, 5)
 print(A[2:4])
-A[2] =10 #output will be TypeError: 'tuple' object does not support item assignment because we can not change the value of tuple once it is created
+# A[2] =10 #output will be TypeError: 'tuple' object does not support item assignment because we can not change the value of tuple once it is created

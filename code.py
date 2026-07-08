@@ -11,9 +11,9 @@
 A = []
 Date = int(input("Enter the date:"))
 Vdig1,Vdig2,Vdig3 =int(input("Enter the vechile number :")) ,int(input("Enter the vechile number:")) ,int(input("Enter the vechile number:"))
-if Date%2 ==0 and Vdig%2 !=0:
+if Date%2 ==0 and Vdig1%2 !=0:
     print("The vechicle is not allowed to drive")
-elif Date%2 !=0 and Vdig%2 ==0:
+elif Date%2 !=0 and Vdig1%2 ==0:
     print("The vechicle is not allowed to drive")
 else:
     print("The vechicle is allowed to drive")
