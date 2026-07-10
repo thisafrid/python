@@ -1,5 +1,8 @@
 #used to insert new value in a key and also to add new key to the dictonary
 #example
+from types import new_class
+
+
 school = {
     "name" : "afrid",
     "subjects" : {
